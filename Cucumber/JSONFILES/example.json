@@ -1,0 +1,21 @@
+{
+    "college":"NAAC AAA",
+    "regionCode":1,
+        "students":[
+            {
+                "id":"2413554",
+                "name":"madhukiran",
+                "salary":"22000"
+            },
+            {
+               "id":"24135789",
+                "name":"Gopinath",
+                "salary":"22000" 
+            },
+             {
+               "id":"24135678",
+                "name":"tarun",
+                "salary":"22000" 
+            }
+            ]
+}

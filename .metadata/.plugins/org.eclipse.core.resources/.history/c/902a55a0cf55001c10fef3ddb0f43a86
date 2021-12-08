@@ -1,0 +1,4 @@
+Feature: JSON DDT
+Scenario: JSON demo
+Given I am on FB page
+Then  I check logins from json

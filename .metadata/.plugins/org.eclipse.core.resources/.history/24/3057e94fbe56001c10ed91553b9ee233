@@ -1,0 +1,13 @@
+package Mphasis;
+
+public class StringConcepts {
+
+	public static void main(String[] args) {
+//Seqquence of charecters is string
+		//String is immutable
+		String s=new String("durga");
+		s.concat("software");
+		System.out.println(s);
+	}
+
+}

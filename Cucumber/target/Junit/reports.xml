@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.17">
+    <testcase classname="JSON DDT" name="JSON demo" time="0.038">
+        <failure message="Cannot invoke &quot;org.openqa.selenium.WebDriver.get(String)&quot; because &quot;this.driver&quot; is null" type="java.lang.NullPointerException"><![CDATA[Given I am on FB page.......................................................failed
+Then I check logins from json...............................................skipped
+
+StackTrace:
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because "this.driver" is null
+	at JSON.JSON.i_am_on_fb_page(JSON.java:49)
+	at ✽.I am on FB page(file:///C:/Users/madhu/CucumberFrameworkwithFeatures/Cucumber/src/test/resources/features/JSON.feature:3)
+]]></failure>
+    </testcase>
+</testsuite>
