@@ -1,8 +1,0 @@
-package Hooks;
-
-public class Hooks {
-	public static void OpenBrowser() {
-		
-	}
-
-}
