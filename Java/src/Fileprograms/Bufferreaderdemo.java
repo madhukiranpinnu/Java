@@ -23,5 +23,6 @@ public class Bufferreaderdemo {
             System.out.println(s);
             s=br.readLine();
         }
+        br.close();
     }
 }
